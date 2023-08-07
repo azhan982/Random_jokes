@@ -1,0 +1,10 @@
+@media screen and (max-width: 750px) {
+    .jokes {
+        width: 80vw;
+        height: 40vh;
+    }
+    .jokes .jj{
+        width: 80vw;
+        height: 40vh;
+    }
+}
